@@ -78,7 +78,8 @@
     "spinners-react": "^1.0.4",
     "sweetalert2": "^11.1.4",
     "xlsx": "^0.17.0",
-    "react-color-palette": "^6.2.0"
+    "react-color-palette": "^6.2.0",
+    "http-proxy-middleware": "^2.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -101,8 +102,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "http-proxy-middleware": "^2.0.6"
   }
 }
