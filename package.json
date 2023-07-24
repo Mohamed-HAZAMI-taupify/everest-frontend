@@ -102,5 +102,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://everest-backend.onrender.com"
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  }
 }
