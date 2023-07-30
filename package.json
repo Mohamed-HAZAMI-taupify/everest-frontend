@@ -84,9 +84,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "render"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
